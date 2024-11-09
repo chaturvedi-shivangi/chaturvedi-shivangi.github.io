@@ -2,10 +2,11 @@
 layout: default
 ---
 
+## About
 About me.
 
-# Interests
-xyz
+### Research Interests
+Development Economics, Behavioural Economics, Public Policy.
 
-[CV](./resume.pdf).
+[Curriculum vitae](./resume.pdf)
 
