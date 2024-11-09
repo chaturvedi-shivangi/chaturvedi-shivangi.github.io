@@ -1,1 +1,4 @@
-# chaturvedi-shivangi.github.io
+# Education
+JNU
+
+LSR
