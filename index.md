@@ -15,3 +15,4 @@ I aim to leverage my academic background in Economics to contribute meaningfully
 
 [Curriculum vitae.](./resume.pdf)
 
+This website was made for marriage proposals.
